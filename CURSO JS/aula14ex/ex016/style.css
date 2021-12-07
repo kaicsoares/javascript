@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body{
+    background-color: rgb(94, 94, 245);
+    font: normal 15pt Arial;
+}
+header{
+    
+    color: white;
+    text-align: center;
+}
+section{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.384);
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
